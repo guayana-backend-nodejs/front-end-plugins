@@ -24,5 +24,6 @@ This repository collects a series of plugins that we found useful in front end d
 * **Keymaps.** Find a keymap for and show all enabled keymaps in a Cheat Sheet:https://packagecontrol.io/packages/Keymaps
 * **LESS.** LESS syntax highlighting for Sublime Text: https://packagecontrol.io/packages/LESS
 * **Package Control.** A full-featured package manager: ckagecontrol.io/packages/Package%20Control
+* **Seti_UI.** Seti_UI Port for ST3: https://packagecontrol.io/packages/Seti_UI
 * **SideBar Enhancements.** Enhancements to Sublime Text sidebar. Files and folders: https://packagecontrol.io/packages/SideBarEnhancements
 * **Sublime Linter.** Interactive code linting framework for Sublime Text 3: https://packagecontrol.io/packages/SublimeLinter
