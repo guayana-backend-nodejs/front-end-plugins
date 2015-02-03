@@ -2,6 +2,14 @@ Front end plugins
 =================
 This repository collects a series of plugins that we found useful in front end development using Brackets and Sublime. Feel free to add yours.
 
+## Brackets
+* **Beautify.** Format JavaScript, HTML, and CSS files: https://packagecontrol.io/packages/Alignment: https://github.com/drewhamlett
+* **Brackets Git.** Integration of Git into Brackets: https://github.com/zaggino/brackets-git
+* **Brackets Icons.** File icons in Brackets' file tree: https://github.com/ivogabe
+* **Emmet.** High-speed HTML and CSS workflow.
+* **Indent Guides.** Show indent guides in the code editor: https://github.com/lkcampbell/brackets-indent-guides
+* **Minifier.** Minifies your CSS and JavaScript files with YUI and JSMin.
+
 ## Sublime
 * **Alignment.** Easy alignment of multiple selections and multi-line selections: https://packagecontrol.io/packages/Alignment
 * **AngularJS.** AngularJS code completion, snippets, go to definition, quick panel search, and more: https://packagecontrol.io/packages/AngularJS
@@ -18,5 +26,3 @@ This repository collects a series of plugins that we found useful in front end d
 * **Package Control.** A full-featured package manager: ckagecontrol.io/packages/Package%20Control
 * **SideBar Enhancements.** Enhancements to Sublime Text sidebar. Files and folders: https://packagecontrol.io/packages/SideBarEnhancements
 * **Sublime Linter.** Interactive code linting framework for Sublime Text 3: https://packagecontrol.io/packages/SublimeLinter
-
-
