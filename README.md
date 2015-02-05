@@ -27,3 +27,4 @@ This repository collects a series of plugins that we found useful in front end d
 * **Seti_UI.** Seti_UI Port for ST3: https://packagecontrol.io/packages/Seti_UI
 * **SideBar Enhancements.** Enhancements to Sublime Text sidebar. Files and folders: https://packagecontrol.io/packages/SideBarEnhancements
 * **Sublime Linter.** Interactive code linting framework for Sublime Text 3: https://packagecontrol.io/packages/SublimeLinter
+* **EJS.** An EJS syntax definition specifically for sublime text: https://packagecontrol.io/packages/EJS
